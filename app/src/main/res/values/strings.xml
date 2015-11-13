@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ScreeningDevelopmentalForParent</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_child">AddChild</string>
+    <string name="title_activity_add_parent">AddParent</string>
+</resources>
